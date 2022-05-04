@@ -20,7 +20,7 @@ void setup() {
 
 void loop() {
   socketIO.loop();
-  delay(100);
+  //delay(100);
 }
 
 void conectar_WiFiSTA()
